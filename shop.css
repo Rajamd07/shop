@@ -1,0 +1,18 @@
+html {
+  font-size: 22px;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: whitesmoke;
+}
+#container {
+  width: 70%;
+  margin: 0px auto;
+}
+tr,th,td,caption{
+  border: 1px solid #eee;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 0.5rem;
+}
