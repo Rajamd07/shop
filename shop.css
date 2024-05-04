@@ -16,3 +16,13 @@ tr,th,td,caption{
   font-family: 'Courier New', Courier, monospace;
   padding: 0.5rem;
 }
+a {
+  color: aliceblue;
+}
+a:visited {
+  color: lightgray;
+}
+a:hover,
+a:active {
+  color: pink;
+}
